@@ -8,11 +8,11 @@
     "linkedin": "https://www.linkedin.com/in/likhithsatyan/",
     "image": "likhith-profile.jpg",
     "availability": "Open to full-time AI/ML and full-stack roles",
-    "summary": "Computer Science graduate student at the University of North Texas building practical AI systems across computer vision, NLP, automated data pipelines, and production-ready web interfaces.",
+    "summary": "Computer science graduate student at the University of North Texas, building practical AI systems across computer vision, NLP, automated data pipelines, and production-ready web interfaces.",
     "highlights": [
       "98% detection accuracy with YOLOv8 + ResNet on AWS SageMaker",
       "40% faster image processing through automated ML pipelines",
-      "20% user satisfaction lift from BERT-based sentiment analysis"
+      "20% increase in user satisfaction through BERT-based sentiment analysis"
     ]
   },
   "skills": [
@@ -43,10 +43,10 @@
       "company": "University of North Texas",
       "location": "Denton, Texas",
       "period": "Feb 2025 - Feb 2026",
-      "summary": "Supported academic operations while building automation scripts for document workflows and feedback processing.",
+      "summary": "Supported academic operations while developing automation scripts for document workflows and feedback processing.",
       "bullets": [
         "Created Python scripts that automated form validation and applied NLP techniques to summarize feedback.",
-        "Reduced manual document-processing effort and improved consistency across academic documentation workflows.",
+        "Reduced manual document processing effort and improved consistency across academic documentation workflows.",
         "Improved scheduling and resource coordination through Outlook, Slack, and shared Google Sheets workflows."
       ],
       "stack": ["Python", "NLP", "Automation", "Google Sheets", "Slack"]
@@ -56,11 +56,11 @@
       "company": "Prasthana Software Solutions",
       "location": "Hyderabad, India",
       "period": "Dec 2023 - May 2024",
-      "summary": "Built AI-powered product features, computer-vision pipelines, NLP tools, and full-stack platform improvements.",
+      "summary": "Built AI-powered product features, computer vision pipelines, NLP tools, and full-stack platform improvements.",
       "bullets": [
         "Implemented YOLOv8 and ResNet models on AWS SageMaker for real-time image automation, achieving 98% detection accuracy.",
         "Built end-to-end Python pipelines using pandas and scikit-learn on AWS S3 to preprocess image data and generate labeled datasets.",
-        "Integrated BERT-based NLP models with Streamlit for sentiment analysis and text classification, improving product feedback loops.",
+        "Integrated BERT-based NLP models with Streamlit for sentiment analysis and text classification, strengthening product feedback loops.",
         "Developed full-stack features for the Tenmates platform and collaborated in Agile sprints through code reviews and technical discussions."
       ],
       "stack": ["Python", "YOLOv8", "ResNet", "BERT", "AWS SageMaker", "AWS S3", "Streamlit", "scikit-learn"]
@@ -70,7 +70,7 @@
       "company": "Amrita Vishwa Vidyapeetham",
       "location": "Chennai, India",
       "period": "Apr 2023 - Jun 2023",
-      "summary": "Researched MANET QoS performance using simulation, containerized experiments, and ML-assisted analysis.",
+      "summary": "Researched MANET QoS performance using simulations, containerized experiments, and ML-assisted analysis.",
       "bullets": [
         "Evaluated QoS performance using NS-3 routing simulations in Docker and PyTorch-based analysis workflows.",
         "Analyzed routing behavior, mobility effects, packet flow, latency, throughput, and network stability.",
@@ -83,7 +83,7 @@
       "company": "Independent Research",
       "location": "Remote",
       "period": "Oct 2022 - Apr 2023",
-      "summary": "Developed prototype automation tools and research documentation for recruitment workflow optimization.",
+      "summary": "Developed prototype automation tools and research documentation to optimize recruitment workflows.",
       "bullets": [
         "Built automation tools to streamline recruitment workflows and reduce repetitive manual tasks.",
         "Developed prototype software in Flask and PyTorch with technical documentation and experiment protocols.",
@@ -96,7 +96,7 @@
     {
       "name": "IntelliFace AI Attendance System",
       "category": "Computer Vision",
-      "description": "A face-recognition attendance system using YOLOv8 and ResNet encodings with real-time webcam detection, automated attendance logging, user verification, and operational dashboards.",
+      "description": "A face-recognition attendance system using YOLOv8 and ResNet encodings, with real-time webcam detection, automated attendance logging, user verification, and operational dashboards.",
       "details": [
         "Designed a real-time detection workflow for identifying users from webcam input.",
         "Built Streamlit and Flask interfaces for attendance management and system control.",
@@ -107,7 +107,7 @@
     {
       "name": "Smart Curb Parking System",
       "category": "Computer Vision Automation",
-      "description": "Automated parking enforcement system using YOLOv7 and ILPD-NET with live camera feed integration, edge detection, Gaussian filtering, and real-time preprocessing pipelines.",
+      "description": "An automated parking enforcement system using YOLOv7 and ILPD-NET, with live camera feed integration, edge detection, Gaussian filtering, and real-time preprocessing pipelines.",
       "details": [
         "Integrated live camera feeds for real-time inference in street-scene environments.",
         "Applied edge detection and Gaussian filtering to improve preprocessing quality.",
@@ -118,7 +118,7 @@
     {
       "name": "Automation & LLM Workflow Toolkit",
       "category": "Automation Tools",
-      "description": "A collection of Python automation workflows for validation, summarization, and structured data handling, with room for LLM integrations and browser automation.",
+      "description": "A collection of Python automation workflows for validation, summarization, and structured data handling, designed to support LLM integrations and browser automation.",
       "details": [
         "Automated repetitive form-validation and documentation tasks with Python scripts.",
         "Used NLP summarization patterns to convert unstructured feedback into concise summaries.",
