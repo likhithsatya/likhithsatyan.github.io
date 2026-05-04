@@ -114,17 +114,6 @@
         "Structured a detection pipeline for automated parking enforcement workflows."
       ],
       "stack": ["YOLOv7", "ILPD-NET", "Python", "Edge Detection", "Gaussian Filtering", "Computer Vision"]
-    },
-    {
-      "name": "Automation & LLM Workflow Toolkit",
-      "category": "Automation Tools",
-      "description": "A collection of Python automation workflows for validation, summarization, and structured data handling, designed to support LLM integrations and browser automation.",
-      "details": [
-        "Automated repetitive form-validation and documentation tasks with Python scripts.",
-        "Used NLP summarization patterns to convert unstructured feedback into concise summaries.",
-        "Designed the toolkit to support browser automation, scraping-style workflows, and future LLM-assisted reporting."
-      ],
-      "stack": ["Python", "NLP", "Playwright", "Automation", "LLM-ready Workflows"]
     }
   ],
   "education": [
