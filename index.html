@@ -165,6 +165,28 @@
         transition: none;
       }
     }
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border-width: 0;
+    }
+
+    .focus\:not-sr-only:focus {
+      position: absolute;
+      width: auto;
+      height: auto;
+      margin: 0;
+      overflow: visible;
+      clip: auto;
+      white-space: normal;
+    }
   </style>
 </head>
 
@@ -224,7 +246,7 @@
                 <span class="gradient-text block">Neerukonda</span>
               </h1>
 
-              <p class="mt-6 max-w-2xl text-base leading-8 text-slate-300 sm:text-lg">
+              <p class="mt-6 max-w-2xl text-base leading-8 text-slate-300">
                 AI/ML Engineer focused on computer vision and NLP, with hands-on experience
                 building real-time detection systems, face-recognition applications,
                 sentiment analysis pipelines, and intelligent workflow automation using
@@ -257,7 +279,7 @@
                   Email Me
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/your-linkedin-handle"
+                  href="https://www.linkedin.com/in/likhithsatyan"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="rounded-full border border-slate-700 px-5 py-3 text-center text-sm font-bold text-slate-200 hover:border-electric hover:text-electric"
@@ -745,7 +767,7 @@
                 Start Conversation
               </a>
               <a
-                href="https://www.linkedin.com/in/your-linkedin-handle"
+                href="https://www.linkedin.com/in/likhithsatyan"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="rounded-full border border-slate-700 px-5 py-3 text-center text-sm font-bold text-slate-200 hover:border-electric hover:text-electric"
