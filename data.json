@@ -31,12 +31,12 @@
       "items": ["Flask", "Streamlit", "Ruby on Rails"]
     },
     {
-      "group": "Databases",
-      "items": ["PostgreSQL", "SQL", "MongoDB", "BigQuery"]
+      "group": "Databases & Analytics",
+      "items": ["PostgreSQL", "SQL", "MongoDB", "BigQuery", "Power BI"]
     },
     {
       "group": "Cloud & Tools",
-      "items": ["AWS S3", "AWS SageMaker", "Docker", "Git"]
+      "items": ["AWS", "S3", "SageMaker", "Docker", "Git", "Google Cloud Platform (GCP)"]
     }
   ],
   "experience": [
@@ -57,11 +57,11 @@
       "location": "",
       "period": "Jun 2023 - May 2024",
       "bullets": [
-        "Developed onboarding features using Python, Flask, and PostgreSQL to improve the user registration process.",
+        "Developed onboarding features with Python, Flask, and PostgreSQL that streamlined the user registration flow and reduced friction during sign-up.",
         "Built and deployed a real-time image detection system using YOLOv8, ResNet, and AWS SageMaker that achieved 98% accuracy and improved processing speed by 40%.",
-        "Created Python data preprocessing pipelines with pandas and scikit-learn to automate image preparation tasks.",
+        "Created Python data-preprocessing pipelines using pandas and scikit-learn that automated image preparation, cutting manual effort and speeding up model training.",
         "Built a sentiment analysis feature using BERT and Streamlit to identify user feedback trends and improve user satisfaction by 20%.",
-        "Worked in Agile sprints with code reviews and team discussions to support faster feature delivery."
+        "Participated in Agile sprints, code reviews, and team discussions to support faster, more reliable feature delivery."
       ],
       "stack": ["Python", "Flask", "PostgreSQL", "YOLOv8", "ResNet", "AWS SageMaker", "BERT", "Streamlit", "scikit-learn", "pandas"]
     },
@@ -71,10 +71,10 @@
       "location": "Chennai, India",
       "period": "Apr 2023 - Jun 2023",
       "bullets": [
-        "Ran MANET QoS experiments using NS-3, PyTorch, and Docker to evaluate network performance.",
-        "Analyzed routing, mobility, and packet flow using Python scripts and simulations to identify improvements.",
-        "Reviewed research papers and documented findings to support the team's testing process.",
-        "Prepared reports in LaTeX and presented results to the research team."
+        "Ran MANET QoS experiments using NS-3, PyTorch, and Docker, improving network efficiency in the tested scenarios.",
+        "Analyzed routing, mobility, and packet flow using Python scripts and simulations, identifying key inefficiencies that informed protocol-improvement recommendations.",
+        "Reviewed recent research papers and documented key findings, giving the team a concise reference that informed our QoS testing approach.",
+        "Prepared LaTeX reports and presented results to the research team, helping guide decisions on follow-up experiments and focus areas."
       ],
       "stack": ["NS-3", "PyTorch", "Docker", "Python", "LaTeX"]
     },
@@ -85,8 +85,8 @@
       "period": "Oct 2022 - Apr 2023",
       "bullets": [
         "Built automation tools with Flask and PyTorch to reduce repetitive tasks.",
-        "Helped organize research workflows and project milestones with the team.",
-        "Used Git for version control and documented weekly progress updates."
+        "Helped organize research workflows and project milestones with the team so progress and deadlines were easier to track.",
+        "Used Git for version control and documented weekly progress updates to keep the team aligned on code changes and project status."
       ],
       "stack": ["Flask", "PyTorch", "Git", "Automation"]
     }
@@ -135,6 +135,7 @@
   ],
   "certifications": [
     "Google Cloud Computing Certification",
+    "Microsoft: Design and Manage Analytics Solutions Using Power BI (PL-300) - In progress",
     "AWS Solutions Architecture Virtual Experience (Forage)",
     "Accenture Developer Virtual Experience (Forage)",
     "C++ Course (Udemy)"
