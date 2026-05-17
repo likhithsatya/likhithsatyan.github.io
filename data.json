@@ -30,7 +30,11 @@
     },
     {
       "group": "Tools / Cloud",
-      "items": ["AWS SageMaker", "AWS S3", "GCP BigQuery", "Docker", "Git", "MongoDB", "Hadoop", "Hive", "Tableau", "Power BI"]
+      "items": ["AWS SageMaker", "AWS S3", "GCP BigQuery", "Docker", "Git", "MongoDB", "PostgreSQL", "Hadoop", "Hive", "Tableau", "Power BI"]
+    },
+    {
+      "group": "Web / Architecture",
+      "items": ["Flask", "Streamlit", "Ruby on Rails", "PostgreSQL", "MVC Architecture"]
     },
     {
       "group": "Security",
@@ -55,7 +59,7 @@
       "role": "AI/ML & Full-Stack Developer Intern",
       "company": "Prasthana Software Solutions",
       "location": "Hyderabad, India",
-      "period": "Dec 2023 - May 2024",
+      "period": "Jun 2023 - May 2024",
       "summary": "Built AI-powered product features, computer vision pipelines, NLP tools, and full-stack platform improvements.",
       "bullets": [
         "Implemented YOLOv8 and ResNet models on AWS SageMaker for real-time image automation, achieving 98% detection accuracy.",
