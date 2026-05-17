@@ -5,10 +5,12 @@
     "location": "Denton, Texas",
     "email": "Likhithsatya2003@gmail.com",
     "phone": "(940) 594-1279",
-    "linkedin": "https://www.linkedin.com/in/likhithsatyan/",
+    "linkedin": "https://www.linkedin.com/in/likhithsatyan",
+    "github": "https://github.com/likhithsatya",
     "image": "likhith-profile.jpg",
-    "availability": "Open to full-time AI/ML and full-stack roles",
-    "summary": "Computer science graduate student at the University of North Texas, building practical AI systems across computer vision, NLP, automated data pipelines, and production-ready web interfaces.",
+    "resume": "Likhith-Satya-Neerukonda-Resume.pdf",
+    "availability": "Open to entry-level software engineering, AI/ML, or full-stack roles",
+    "summary": "Computer Science graduate student at the University of North Texas with internship and project experience in software development, AI/ML, and data-driven applications. Built and deployed real-time computer vision and NLP features using Python, PyTorch, TensorFlow, YOLOv8, BERT, AWS SageMaker, Flask, Streamlit, and PostgreSQL. Comfortable working end-to-end across data pipelines, model development, and backend applications; seeking entry-level software engineering, AI/ML, or full-stack roles.",
     "highlights": [
       "98% detection accuracy with YOLOv8 + ResNet on AWS SageMaker",
       "40% faster image processing through automated ML pipelines",
@@ -17,24 +19,24 @@
   },
   "skills": [
     {
+      "group": "Machine Learning & AI",
+      "items": ["PyTorch", "TensorFlow", "scikit-learn", "YOLOv7", "YOLOv8", "ResNet", "BERT", "NLP", "Computer Vision"]
+    },
+    {
       "group": "Languages",
-      "items": ["Python", "JavaScript", "Ruby", "C++", "C", "SQL"]
+      "items": ["Python", "C++", "JavaScript", "Ruby"]
     },
     {
-      "group": "Frameworks / Libraries",
-      "items": ["TensorFlow", "PyTorch", "scikit-learn", "pandas", "NumPy", "Flask", "Streamlit", "Ruby on Rails", "Playwright", "Matplotlib", "Seaborn"]
+      "group": "Frameworks & Tools",
+      "items": ["Flask", "Streamlit", "Ruby on Rails", "Docker", "Git"]
     },
     {
-      "group": "AI / ML",
-      "items": ["YOLOv7", "YOLOv8", "BERT", "ResNet", "ILPD-NET", "NLP", "Computer Vision", "Deep Learning", "Neural Networks", "Face Recognition"]
+      "group": "Data & Cloud",
+      "items": ["PostgreSQL", "SQL", "MongoDB", "BigQuery", "AWS", "S3", "SageMaker", "Google Cloud Platform (GCP)"]
     },
     {
-      "group": "Tools / Cloud",
-      "items": ["AWS SageMaker", "AWS S3", "GCP BigQuery", "Docker", "Git", "MongoDB", "Hadoop", "Hive", "Tableau", "Power BI"]
-    },
-    {
-      "group": "Security",
-      "items": ["Network Security", "Information Security", "NIST", "ISO 27001"]
+      "group": "Visualization & Reporting",
+      "items": ["Power BI", "Streamlit dashboards", "LaTeX reports"]
     }
   ],
   "experience": [
@@ -43,95 +45,99 @@
       "company": "University of North Texas",
       "location": "Denton, Texas",
       "period": "Feb 2025 - Feb 2026",
-      "summary": "Supported academic operations while developing automation scripts for document workflows and feedback processing.",
       "bullets": [
-        "Created Python scripts that automated form validation and applied NLP techniques to summarize feedback.",
-        "Reduced manual document processing effort and improved consistency across academic documentation workflows.",
-        "Improved scheduling and resource coordination through Outlook, Slack, and shared Google Sheets workflows."
+        "Wrote Python scripts to automate form validation and feedback summarization, reducing processing time and manual errors.",
+        "Managed scheduling and communication using Outlook, Slack, and Google Sheets to keep meetings and resources organized."
       ],
-      "stack": ["Python", "NLP", "Automation", "Google Sheets", "Slack"]
+      "stack": ["Python", "Automation", "Outlook", "Slack", "Google Sheets"]
     },
     {
       "role": "AI/ML & Full-Stack Developer Intern",
       "company": "Prasthana Software Solutions",
-      "location": "Hyderabad, India",
-      "period": "Dec 2023 - May 2024",
-      "summary": "Built AI-powered product features, computer vision pipelines, NLP tools, and full-stack platform improvements.",
+      "location": "",
+      "period": "Jun 2023 - May 2024",
       "bullets": [
-        "Implemented YOLOv8 and ResNet models on AWS SageMaker for real-time image automation, achieving 98% detection accuracy.",
-        "Built end-to-end Python pipelines using pandas and scikit-learn on AWS S3 to preprocess image data and generate labeled datasets.",
-        "Integrated BERT-based NLP models with Streamlit for sentiment analysis and text classification, strengthening product feedback loops.",
-        "Developed full-stack features for the Tenmates platform and collaborated in Agile sprints through code reviews and technical discussions."
+        "Developed onboarding features with Python, Flask, and PostgreSQL that streamlined the user registration flow and reduced friction during sign-up.",
+        "Built and deployed a real-time image detection system using YOLOv8, ResNet, and AWS SageMaker that achieved 98% accuracy and improved processing speed by 40%.",
+        "Created Python data-preprocessing pipelines using pandas and scikit-learn that automated image preparation, cutting manual effort and speeding up model training.",
+        "Built a sentiment analysis feature using BERT and Streamlit to identify user feedback trends and improve user satisfaction by 20%.",
+        "Participated in Agile sprints, code reviews, and team discussions to support faster, more reliable feature delivery."
       ],
-      "stack": ["Python", "YOLOv8", "ResNet", "BERT", "AWS SageMaker", "AWS S3", "Streamlit", "scikit-learn"]
+      "stack": ["Python", "Flask", "PostgreSQL", "YOLOv8", "ResNet", "AWS SageMaker", "BERT", "Streamlit", "scikit-learn", "pandas"]
     },
     {
       "role": "Mobile Ad Hoc QoS Researcher",
       "company": "Amrita Vishwa Vidyapeetham",
       "location": "Chennai, India",
       "period": "Apr 2023 - Jun 2023",
-      "summary": "Researched MANET QoS performance using simulations, containerized experiments, and ML-assisted analysis.",
       "bullets": [
-        "Evaluated QoS performance using NS-3 routing simulations in Docker and PyTorch-based analysis workflows.",
-        "Analyzed routing behavior, mobility effects, packet flow, latency, throughput, and network stability.",
-        "Reviewed 30+ studies and documented results in LaTeX reports for peer review and future research direction."
+        "Ran MANET QoS experiments using NS-3, PyTorch, and Docker, improving network efficiency in the tested scenarios.",
+        "Analyzed routing, mobility, and packet flow using Python scripts and simulations, identifying key inefficiencies that informed protocol-improvement recommendations.",
+        "Reviewed recent research papers and documented key findings, giving the team a concise reference that informed our QoS testing approach.",
+        "Prepared LaTeX reports and presented results to the research team, helping guide decisions on follow-up experiments and focus areas."
       ],
-      "stack": ["NS-3", "Docker", "PyTorch", "MANET", "LaTeX"]
+      "stack": ["NS-3", "PyTorch", "Docker", "Python", "LaTeX"]
     },
     {
       "role": "Software Engineering Researcher",
-      "company": "Independent Research",
-      "location": "Remote",
+      "company": "Research Project",
+      "location": "",
       "period": "Oct 2022 - Apr 2023",
-      "summary": "Developed prototype automation tools and research documentation to optimize recruitment workflows.",
       "bullets": [
-        "Built automation tools to streamline recruitment workflows and reduce repetitive manual tasks.",
-        "Developed prototype software in Flask and PyTorch with technical documentation and experiment protocols.",
-        "Tracked project milestones through Git and weekly status reports to maintain consistent delivery."
+        "Built automation tools with Flask and PyTorch to reduce repetitive tasks.",
+        "Helped organize research workflows and project milestones with the team so progress and deadlines were easier to track.",
+        "Used Git for version control and documented weekly progress updates to keep the team aligned on code changes and project status."
       ],
       "stack": ["Flask", "PyTorch", "Git", "Automation"]
     }
   ],
   "projects": [
     {
-      "name": "IntelliFace AI Attendance System",
+      "name": "IntelliFace — AI Attendance System",
       "category": "Computer Vision",
-      "description": "A face-recognition attendance system using YOLOv8 and ResNet encodings, with real-time webcam detection, automated attendance logging, user verification, and operational dashboards.",
+      "description": "A face-recognition attendance system using YOLOv8 and ResNet for real-time webcam check-ins, with attendance logging and a non-technical dashboard.",
       "details": [
-        "Designed a real-time detection workflow for identifying users from webcam input.",
-        "Built Streamlit and Flask interfaces for attendance management and system control.",
-        "Automated attendance logging to reduce manual tracking overhead."
+        "Built a face-recognition attendance system using YOLOv8 and ResNet for real-time webcam check-ins.",
+        "Implemented a pipeline for face detection, attendance logging, and dashboard visualization.",
+        "Developed a Streamlit and Flask interface for non-technical users."
       ],
-      "stack": ["YOLOv8", "ResNet", "Face Recognition", "OpenCV", "Streamlit", "Flask"]
+      "stack": ["YOLOv8", "ResNet", "OpenCV", "Streamlit", "Flask"]
     },
     {
       "name": "Smart Curb Parking System",
-      "category": "Computer Vision Automation",
-      "description": "An automated parking enforcement system using YOLOv7 and ILPD-NET, with live camera feed integration, edge detection, Gaussian filtering, and real-time preprocessing pipelines.",
+      "category": "Computer Vision",
+      "description": "A smart parking system using YOLOv7 and ILPD-NET to detect illegally parked vehicles from live camera feeds.",
       "details": [
-        "Integrated live camera feeds for real-time inference in street-scene environments.",
-        "Applied edge detection and Gaussian filtering to improve preprocessing quality.",
-        "Structured a detection pipeline for automated parking enforcement workflows."
+        "Built a smart parking system using YOLOv7 and ILPD-NET to detect illegally parked vehicles.",
+        "Applied image preprocessing techniques such as edge detection and Gaussian filtering.",
+        "Connected camera feeds to a real-time parking monitoring pipeline."
       ],
-      "stack": ["YOLOv7", "ILPD-NET", "Python", "Edge Detection", "Gaussian Filtering", "Computer Vision"]
+      "stack": ["YOLOv7", "ILPD-NET", "Python", "Edge Detection", "Gaussian Filtering"]
     }
   ],
   "education": [
     {
-      "degree": "MS, Computer Science",
+      "degree": "M.S. in Computer Science",
       "school": "University of North Texas",
       "location": "Denton, Texas",
       "period": "Aug 2024 - May 2026",
-      "gpa": "3.7 / 4.0",
-      "coursework": ["Artificial Intelligence", "Machine Learning", "Big Data", "Software Engineering", "Advanced Algorithms", "Cloud Computing", "Software Development for AI", "Secure Systems"]
+      "gpa": "3.7",
+      "coursework": ["Artificial Intelligence", "Machine Learning", "Big Data", "Software Engineering", "Advanced Algorithms", "Cloud Computing", "Software Development for AI"]
     },
     {
-      "degree": "B.Tech, Computer Science",
+      "degree": "B.Tech in Computer Science",
       "school": "Amrita School of Engineering",
       "location": "Chennai, India",
       "period": "Aug 2020 - May 2024",
-      "gpa": "",
-      "coursework": ["Data Structures & Algorithms", "Operating Systems", "OOP", "Distributed Systems", "Information Security", "DBMS", "Web Technologies", "Artificial Intelligence", "Machine Learning", "Cloud Computing", "Agile Development"]
+      "gpa": "7.17",
+      "coursework": ["Data Structures and Algorithms", "Operating Systems", "OOP", "Distributed Systems", "DBMS", "Web Technologies", "Artificial Intelligence", "Machine Learning", "Cloud Computing"]
     }
+  ],
+  "certifications": [
+    "Google Cloud Computing Certification",
+    "Microsoft: Design and Manage Analytics Solutions Using Power BI (PL-300) - In progress",
+    "AWS Solutions Architecture Virtual Experience (Forage)",
+    "Accenture Developer Virtual Experience (Forage)",
+    "C++ Course (Udemy)"
   ]
 }
