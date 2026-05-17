@@ -19,24 +19,24 @@
   },
   "skills": [
     {
-      "group": "Programming",
-      "items": ["Python", "C++", "JavaScript", "Ruby"]
-    },
-    {
-      "group": "AI / ML",
+      "group": "Machine Learning & AI",
       "items": ["PyTorch", "TensorFlow", "scikit-learn", "YOLOv7", "YOLOv8", "ResNet", "BERT", "NLP", "Computer Vision"]
     },
     {
-      "group": "Full-Stack Development",
-      "items": ["Flask", "Streamlit", "Ruby on Rails"]
+      "group": "Languages",
+      "items": ["Python", "C++", "JavaScript", "Ruby"]
     },
     {
-      "group": "Databases & Analytics",
-      "items": ["PostgreSQL", "SQL", "MongoDB", "BigQuery", "Power BI"]
+      "group": "Frameworks & Tools",
+      "items": ["Flask", "Streamlit", "Ruby on Rails", "Docker", "Git"]
     },
     {
-      "group": "Cloud & Tools",
-      "items": ["AWS", "S3", "SageMaker", "Docker", "Git", "Google Cloud Platform (GCP)"]
+      "group": "Data & Cloud",
+      "items": ["PostgreSQL", "SQL", "MongoDB", "BigQuery", "AWS", "S3", "SageMaker", "Google Cloud Platform (GCP)"]
+    },
+    {
+      "group": "Visualization & Reporting",
+      "items": ["Power BI", "Streamlit dashboards", "LaTeX reports"]
     }
   ],
   "experience": [
